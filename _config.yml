@@ -19,7 +19,7 @@ user:
   name: 凌小皮
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job:干饭人
+  job: 干饭人
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
