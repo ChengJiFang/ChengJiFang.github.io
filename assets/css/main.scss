@@ -232,6 +232,7 @@ img {
     }
 
     & a {
+        font-size: large;
         text-decoration: none;
         color: var(--archive_title);
 
@@ -263,6 +264,7 @@ img {
 
 .archive_title {
     word-wrap: normal;
+   margin-bottom: 50px;
     @include breakpoint(medium) {
         max-width: 80%;
     }
@@ -310,7 +312,7 @@ img {
     text-align: center;
 
     @include breakpoint(medium) {
-        margin-top: 8rem;
+        margin-top: 5rem;
         width: 100%;
     }
 
@@ -420,7 +422,6 @@ img {
 }
 
 .nav_list {
-    margin: 0;
     padding: 0;
     list-style: none;
 
@@ -436,8 +437,7 @@ img {
 
     & a {
         color: var(--nav_font);
-        font-size: 100%;
-
+        font-size:larger;
         &:hover,
         &:focus {
             color: var(--nav_font_hover);
