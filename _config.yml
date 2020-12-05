@@ -1,13 +1,11 @@
 
-title: Catbook #Your awesome title
-email: #youremail@domain.com
+title: 凌小皮 #Your awesome title
+email: 3024454398@qq.com #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ❶幼儿园抢饭第一名❷互联网冲浪金牌选手❸素质教育的漏网之鱼❹著名奶茶鉴定家❺国家一级抬杠运动员.
 
 baseurl: # the subpath of the site
-url: http://starry99.github.io/catbook # the base hostname & protocol for your site
+url: http://ChengJiFang.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
 timezone:
@@ -18,10 +16,10 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: Catbook
+  name: 凌小皮
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: 专业干饭人
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
